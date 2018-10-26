@@ -4,7 +4,7 @@
 //
 // Basic usage of VersionedTree.
 //
-//  import "github.com/tendermint/iavl"
+//  import "github.com/iov-one/iavl"
 //  import "github.com/tendermint/tendermint/libs/db"
 //  ...
 //

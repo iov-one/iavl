@@ -1,4 +1,4 @@
-package: github.com/tendermint/iavl
+package: github.com/iov-one/iavl
 import:
 - package: github.com/pkg/errors
   version: ^0.8.0

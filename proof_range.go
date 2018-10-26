@@ -366,6 +366,7 @@ func (t *Tree) getRangeProof(keyStart, keyEnd []byte, limit int) (*RangeProof, [
 	var innersq = []PathToLeaf(nil)
 	var inners = PathToLeaf(nil)
 	var lastDepth uint8 = 0
+	_ = lastDepth
 	var leafCount = 1 // from left above.
 	var pathCount = 0
 	// var keys, values [][]byte defined as function outs.
